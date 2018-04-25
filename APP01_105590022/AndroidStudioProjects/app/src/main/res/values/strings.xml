@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">APP01_105590022</string>
+    <string name="grade">第等:</string>
+    <string name="grade100">輸入分數應介於[0~100]</string>
+    <string name="grade90">A</string>
+    <string name="grade80">B</string>
+    <string name="grade70">C</string>
+    <string name="grade60">D</string>
+    <string name="grade50">F</string>
+    <string name="grade0">輸入分數應介於[0~100]</string>
+</resources>
